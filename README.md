@@ -1,0 +1,2 @@
+- Udemy 무료 JS강의[[https://www.udemy.com/course/javascript-essentials](https://www.udemy.com/course/javascript-essentials)] 를 듣고 복습하고 필요한 부분만 타이핑한 내용이 담긴 리포지토리.
+- 이 JS강의를 들으며 놓쳤던 기초 부분을 복습하고 탄탄히 한다.
